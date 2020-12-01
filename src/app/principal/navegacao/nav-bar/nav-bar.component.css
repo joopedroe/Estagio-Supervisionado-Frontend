@@ -1,0 +1,34 @@
+nav {
+    height: 2.5rem;
+}
+
+.logout {
+    cursor: pointer;
+}
+
+.btn-light:hover {
+    color: #212529;
+}
+
+.bg-custom {
+    background-color: #0081C5;
+    color: white;
+}
+
+.btn-custom {
+    background-color: #0081C5;
+    color: white;
+    border: none;
+}
+
+.nav-custom {
+    color: white !important;
+    font-weight: 400;
+    padding-bottom: 0;
+    margin-bottom: 8px;
+}
+
+.nav-custom:hover {
+    border-bottom: 2px solid white;
+    margin-bottom: 2px;
+}
